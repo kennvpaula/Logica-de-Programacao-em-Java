@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package logicadeprogramacaoemjava.Algoritmo06;
+package logicadeprogramacaoemjava.reajusteporcentagem;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author kenne
  */
-public class Algoritmo06 {
+public class ReajustePorcentagem {
 
     /**
      * @param args the command line arguments

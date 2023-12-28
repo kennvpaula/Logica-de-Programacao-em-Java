@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package logicadeprogramacaoemjava.exerciciosete;
+package logicadeprogramacaoemjava.somaparimpar;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author kenne
  */
-public class ExercicioSete {
+public class SomaParImpar {
 
     public static void main(String[] args) {
         // Faça um algoritmo que leia uma variável e some 5 caso seja par ou some 8 caso seja ímpar, imprimir o resultado desta operação.
