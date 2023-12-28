@@ -13,8 +13,7 @@ import java.util.Scanner;
 public class ExercicioSete {
 
     public static void main(String[] args) {
-        /*7) Faça um algoritmo que leia uma variável e some 5 caso seja par ou some 8 caso seja ímpar, 
-imprimir o resultado desta operação.*/
+        // Faça um algoritmo que leia uma variável e some 5 caso seja par ou some 8 caso seja ímpar, imprimir o resultado desta operação.
         Scanner teclado = new Scanner(System.in);
         System.out.print("Digite um valor inteiro: ");
         int valor = teclado.nextInt();
@@ -23,9 +22,6 @@ imprimir o resultado desta operação.*/
             System.out.println(valor + 5 );    
         } else {
             System.out.println(valor + 8 );
-        }
-        
-        
-        
+        } 
     }
 }
